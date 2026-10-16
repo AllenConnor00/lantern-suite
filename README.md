@@ -1,6 +1,6 @@
 # Lantern Suite
 
-**A proprietary, local-first AI platform for tabletop roleplaying and interactive adventure systems.**
+**Public engineering showcase for a proprietary, local-first tabletop and adventure software suite.**
 
 Lantern Suite is an in-development family of applications built around shared AI, state-management, rules, and tabletop infrastructure. The production source code is private while the products are developed for potential commercial release; this repository exists as a **public technical showcase** of the architecture, design goals, and engineering work behind the suite.
 
@@ -95,9 +95,9 @@ These systems are part of a broader goal: make AI-assisted applications behave l
 
 ## Current Status
 
-Lantern Suite is **actively in development**. The shared architecture and substantial tabletop/state infrastructure are implemented, while product functionality, rules support, user experience, and AI-assisted workflows continue to evolve.
+Lantern Suite is **actively in development**. The private development workspace documents implemented shared infrastructure and ongoing product milestones. Because production source is not published here, implementation and test claims cannot be independently reproduced from this showcase alone.
 
-The private development workspace includes automated Rust and TypeScript verification, independent product builds, browser-based end-to-end tests, and local-model integration testing.
+The private development workspace defines Rust and TypeScript verification, independent product builds, browser-based end-to-end tests, and local-model integration tests. The public showcase does not provide those test suites or independently reproducible results.
 
 Public screenshots and product demonstrations will be added here when the interfaces are ready to represent the products publicly.
 
